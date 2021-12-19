@@ -1,0 +1,8 @@
+argp-standalone
+json-c
+libssh
+lvm2
+openssl
+pkgconf make
+popt
+util-linux
